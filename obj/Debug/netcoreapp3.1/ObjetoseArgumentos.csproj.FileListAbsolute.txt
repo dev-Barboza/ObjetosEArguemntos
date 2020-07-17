@@ -1,0 +1,13 @@
+C:\Users\maheu\Documents\ObjetoseArgumentos\bin\Debug\netcoreapp3.1\ObjetoseArgumentos.exe
+C:\Users\maheu\Documents\ObjetoseArgumentos\bin\Debug\netcoreapp3.1\ObjetoseArgumentos.deps.json
+C:\Users\maheu\Documents\ObjetoseArgumentos\bin\Debug\netcoreapp3.1\ObjetoseArgumentos.runtimeconfig.json
+C:\Users\maheu\Documents\ObjetoseArgumentos\bin\Debug\netcoreapp3.1\ObjetoseArgumentos.runtimeconfig.dev.json
+C:\Users\maheu\Documents\ObjetoseArgumentos\bin\Debug\netcoreapp3.1\ObjetoseArgumentos.dll
+C:\Users\maheu\Documents\ObjetoseArgumentos\bin\Debug\netcoreapp3.1\ObjetoseArgumentos.pdb
+C:\Users\maheu\Documents\ObjetoseArgumentos\obj\Debug\netcoreapp3.1\ObjetoseArgumentos.csprojAssemblyReference.cache
+C:\Users\maheu\Documents\ObjetoseArgumentos\obj\Debug\netcoreapp3.1\ObjetoseArgumentos.csproj.CoreCompileInputs.cache
+C:\Users\maheu\Documents\ObjetoseArgumentos\obj\Debug\netcoreapp3.1\ObjetoseArgumentos.AssemblyInfoInputs.cache
+C:\Users\maheu\Documents\ObjetoseArgumentos\obj\Debug\netcoreapp3.1\ObjetoseArgumentos.AssemblyInfo.cs
+C:\Users\maheu\Documents\ObjetoseArgumentos\obj\Debug\netcoreapp3.1\ObjetoseArgumentos.dll
+C:\Users\maheu\Documents\ObjetoseArgumentos\obj\Debug\netcoreapp3.1\ObjetoseArgumentos.pdb
+C:\Users\maheu\Documents\ObjetoseArgumentos\obj\Debug\netcoreapp3.1\ObjetoseArgumentos.genruntimeconfig.cache
